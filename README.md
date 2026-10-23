@@ -1175,7 +1175,7 @@ Entries with a [Glama connector](https://glama.ai/mcp/connectors) badge have bee
   🔓 - Software entry prices and true 3-year cost for web hosting, SEO tools, cloud backup, antivirus and more.
 - [SoldStack](https://soldstack.dev) `https://soldstack.dev/mcp`
   [![SoldStack MCP connector](https://glama.ai/mcp/connectors/io.github.aar-ont/soldstack/badges/score.svg)](https://glama.ai/mcp/connectors/io.github.aar-ont/soldstack)
-  🔑 - What secondhand clothing, shoes and bags actually sold for on Poshmark (US and Canada) and Mercari, cleaned of bundles and wrong items, with price by condition, buy-or-pass verdicts and donation values.
+  🔑 - Cleaned sold prices for used clothing, shoes and bags on Poshmark (US, Canada) and Mercari, with buy-or-pass verdicts.
 - [Stienhardt Diamond MCP](https://stienhardt.com/agents.md?utm_source=awesome_remote_mcp&utm_medium=directory&utm_campaign=diamond_mcp) `https://diamond-mcp.stienhardt.workers.dev/mcp`
   🔓 - Diamond education, grading-report guidance, face-up size estimates, and read-only jewelry catalog search.
 - [teas.co.uk](https://teas.co.uk/ai/) `https://teas.co.uk/mcp`
